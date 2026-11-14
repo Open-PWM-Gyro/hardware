@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SeeedStudio_XIAO") (type "KiCad") (uri "${KIPRJMOD}/libs/footprints/SeeedStudio_XIAO.pretty") (options "") (descr ""))
+)
