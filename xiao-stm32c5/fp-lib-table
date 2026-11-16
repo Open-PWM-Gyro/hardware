@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "SeeedStudio_XIAO") (type "KiCad") (uri "${KIPRJMOD}/libs/footprints/SeeedStudio_XIAO.pretty") (options "") (descr ""))
 	(lib (name "Connector_PinHeader_2.54mm_Custom") (type "KiCad") (uri "${KIPRJMOD}/libs/footprints/Connector_PinHeader_2.54mm_Custom.pretty") (options "") (descr ""))
+	(lib (name "LED_SMD_Custom") (type "KiCad") (uri "${KIPRJMOD}/libs/footprints/LED_SMD_Custom.pretty") (options "") (descr ""))
 )
