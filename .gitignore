@@ -6,3 +6,5 @@
 fp-info-cache
 *.lck
 .DS_Store
+*.bak
+*.kicad_prl
