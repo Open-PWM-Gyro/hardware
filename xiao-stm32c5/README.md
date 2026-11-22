@@ -51,9 +51,9 @@ WIP
 ### Bottom Layer
 ![PCB Bottom Layer](imgs/pcb-bottom.png)
 ### Top + Bottom Layer
-![PCB Top + Bottom Layer](imgs/pcb-top-bottom.png)
+![PCB Top + Bottom Layer](imgs/pcb-top-and-bottom.png)
 ## 3D View
 ### Top
-![3D View Top](3d-top.png)
+![3D View Top](imgs/3d-top.png)
 ### Bottom
-![3D View Bottom](3d-bottom.png)
+![3D View Bottom](imgs/3d-bottom.png)
