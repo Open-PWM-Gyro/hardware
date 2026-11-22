@@ -2542,7 +2542,7 @@
 			(uuid "a3e5fa33-7297-4d50-b090-b1546daa211e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_USER_3D_MODELS}/3x7_2.54mm_PinHeader.stp"
+		(model "${KIPRJMOD}/libs/3d-models/3x7_2.54mm_PinHeader.stp"
 			(offset
 				(xyz 2.5 -7.6 0)
 			)
