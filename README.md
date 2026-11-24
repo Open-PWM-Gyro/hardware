@@ -11,7 +11,7 @@ Each design lives in its own folder, and each folder name matches the board targ
 
 | Folder | Description | Status |
 | --- | --- | --- |
-| [`xiao-stm32c5/`](xiao-stm32c5/) | Seeed Studio XIAO STM32C5 module on a simple carrier board, designed to be easy to build by hand | Planned |
+| [`xiao-stm32c5/`](xiao-stm32c5/) | Seeed Studio XIAO STM32C5 module on a simple carrier board, designed to be easy to build by hand | Released |
 | [`custom-stm32c5/`](custom-stm32c5/) | Fully custom board built around an STM32C5 | Planned |
 | [`legacy/custom-stm32g4/`](legacy/custom-stm32g4/) | Original custom board built around an STM32G4 | Retired |
 

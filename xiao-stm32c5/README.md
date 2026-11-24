@@ -2,9 +2,9 @@
 Carrier board for a `SeeedStudio XIAO STM32C5` that allows it to be used as a 7-channel gyro for RC planes
 
 # Features
-- Only 7 total components (excluding the `XIAO STM32C5`)
+- Only 8 total components (including the `XIAO STM32C5`)
   - 3 are truly needed (22uF servo bulk capacitor, XIAO V<sub>in</sub> diode, servo pin header)
-  - JST connector is optional and only needed if you intend on connecting a receiver to it
+  - JST connector (J1) is optional and only needed if you intend on connecting a receiver to it
 - Bi-color indicator LED (blue, red)
 - Hand-solder-friendly components/footprints
 - 3 possible serial receiver connections
@@ -44,7 +44,7 @@ WIP
 
 # Images
 ## Schematic
-![Schematic](imgs/schematic.png)
+![Schematic](imgs/schematic.svg)
 ## PCB
 ### Top Layer
 ![PCB Top Layer](imgs/pcb-top.png)

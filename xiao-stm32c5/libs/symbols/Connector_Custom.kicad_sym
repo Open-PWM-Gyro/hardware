@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x07"
+		(property "Value" "Conn_03x07"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
